@@ -8,9 +8,7 @@ fwin1 = flow width: 0.5, height: 0.3 do
 	list.each do|x|
 	s = x[7...-4]
 	@m.push(s)
-		para link(s){}
 	end
-	
 	list_box :items =>@m, :choose =>"#{@m[1]}" do|choice| 
 		@fwin2.clear {a = ZangFu.new "./data/#{choice}.csv"
 			a.punten.each {|e|
