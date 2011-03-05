@@ -9,8 +9,10 @@ fwin1 = flow width: 0.5, height: 0.3 do
 	s = x[7...-4]
 	@m.push(s)
 	end
-	list_box :items =>@m, :choose =>"#{@m[1]}" do|choice| 
-		@fwin2.clear {a = ZangFu.new "./data/#{choice}.csv"
+	list = list_box :items =>@m
+	list.choose"#{@m[1]}"
+	list.change{|choice|
+		@fwin2.clear {a = ZangFu.new "./data/#{choice.text}.csv" 
 			a.punten.each {|e|
 			button e.afk, :height =>30, :width =>50  do
 				@fwin4.clear{para strong("Afkorting\t:")," #{e.afk}\n",
@@ -22,7 +24,8 @@ fwin1 = flow width: 0.5, height: 0.3 do
 			end
 			}
 		}
-		end
+		}
+
 	end
 	
 @fwin2 = flow width: 0.5,height: 0.3 do
