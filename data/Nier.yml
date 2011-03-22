@@ -1,0 +1,198 @@
+--- !ruby/object:Orgaan
+points: ./data/Nier.csv
+functies:
+  De Nier slaat Jing op: ! 'Dit is de meest fundamentele substantie van het leven,
+    met andere woorden, het
+
+    vormt de materiële basis voor het menselijk lichaam. Het is verantwoordelijk voor
+
+    vruchtbaarheid, conceptie, groei, ontwikkeling en reproductie.
+
+    Men onderscheidt twee soorten Jing:
+
+    1. Prenatale Jing
+
+    Deze vorm van Jing wordt overgedragen door de ouders aan het nageslacht . In
+
+    eerste instantie is deze basisvorm van Jing verantwoordelijk voor de
+
+    vruchtbaarheid van de beide ouders. In tweede instantie is het deze Jing, die
+    de
+
+    conceptie en de verdere ontwikkeling van de foetus mogelijk maakt.
+
+    Van oudsher ging men er vanuit dat de ontwikkeling van de Jing in cycli van zeven
+
+    jaren bij de vrouw en in cycli van acht jaren bij de man plaats vond.
+
+    2. Postnatale Jing
+
+    Dit is de tweede basisvorm van Jing. Het is afkomstig uit voedingsessentie die
+
+    door de Zang Fu wordt onttrokken en wordt getransformeerd. Dat deel dat niet
+
+    direct nodig is voor het aansturen van de vitale functies, wordt eveneens
+
+    opgeslagen in de Nier.'
+  De Nier produceert merg, vult de hersenen en controleert de botten: ! 'De Jing,
+    die door Nier wordt opgeslagen, is het materiële fundament voor de
+
+    productie van merg. Het Chinese concept merg is echter veel ruimer dan haar
+
+    westerse equivalent. Merg voedt de hersenen en de wervelkolom en vormt het
+
+    beenmerg. Het beenmerg voedt op haar beurt de botten.'
+  De Nier is de basis van Yin en Yang: ! 'Nier Jing is te verdelen in de fundamentele
+    differentiatie Yin en Yang . Men spreekt
+
+    dan over Nier Yin en Nier Yang . Nier Yin heeft een voedende functie t.a.v. alle
+
+    Zang Fu. Deze functie drukt men in de T.C.M. als volgt uit: Nier Yin is de basis
+    van
+
+    Yin voor alle Zang Fu en Nier Yang (MingMen) heeft een verwarmende en
+
+    activerende functie voor alle Zang Fu.'
+  De Nier domineert het water en controleert de twee Yin: ! 'Het Yang van de Nier
+    levert de warmte die vereist is om het “zuivere” van het
+
+    “onzuivere” deel van de vloeistoffen te kunnen scheiden. Het “zuivere” gedeelte
+
+    wordt onder invloed van dezelfde Yange energie opwaarts gestuurd richting de
+
+    Long. Het “onzuivere” gedeelte wordt verder neerwaarts afgevoerd naar de Blaas
+
+    om uitgescheiden te worden.
+
+    Met de controlerende functie (op de twee Yin) verwijst men naar de controle van
+
+    Nier Qi op het openen en sluiten van anus en de externe genitaliën (zaadleider
+    en
+
+    urineleider).'
+  De Nier controleert het ontvangen van Qi: ! 'Zoals je al eerder in de tekst hebt
+    kunnen lezen, stuurt de Long de Qi neerwaarts
+
+    naar de Nier. Dit is vooral belangrijk voor de ademhaling, met name de inhalering.
+
+    Als men dit proces bekijkt vanuit de positie van de Nier, trekt de Nier als het
+    ware
+
+    de Qi van de Long omlaag. Dit wordt de ontvangende functie van de Nier
+
+    genoemd.'
+  De Nier herbergt de Zhi: ! 'Zhi kan men vanuit het Chinees vertalen met wilskracht
+    . NierJing wordt
+
+    getransformeerd tot Yuan Qi, die aan de basis ligt van alle transformatieprocessen
+
+    in het lichaam. Gezonde Nier Jing resulteert dus in vitaliteit en een gefocuste,
+    klare
+
+    geest. Het is de combinatie tussen deze kwaliteiten die zorgt voor volharding
+    en
+
+    wilskracht .'
+  De Nier opent in de oren en manifesteert zich in het hoofdhaar: ! 'De oren worden
+    gevoed door Jing. Geschiedt dit proces goed, dan is men in staat
+
+    om goed te horen. Het oor op zich is een expressie van Nier Qi.
+
+    Van het hoofdhaar wordt gezegd dat het het uiteinde van Bloed is. Bloed wordt
+
+    voor een deel gemaakt uit postnatale Jing, die wordt opgeslagen in de Nier. Als
+
+    men spreekt over de Nier manifesteert zich in het hoofdhaar, doelt men op de
+
+    algemene conditie van het hoofdhaar. Het moet glans, vitaliteit, en een normale
+
+    groei hebben. Het verlies van haar kan op een deficiëntie van de Nier wijzen.'
+punten:
+- !ruby/object:Acupunt
+  afk: Ni 1
+  name: ! ' Opborrelende bron'
+  chname: ! ' Yongquan'
+  locatie: ! ' Op de voetzool op 1/3 tussen basis teen 2 en de hiel. Als je de tenen
+    buigt ontstaat er een kuiltje.'
+  aard: ! ' '
+  actie:
+  - ! ' Versterkt het nier Yin. Kalmeert de Shen. Laat bijkomen uit bewusteloosheid.'
+- !ruby/object:Acupunt
+  afk: Ni 3
+  name: ! ' machtige waterloop'
+  chname: ! ' Taixi'
+  locatie: ! ' In de depressie tussen de hoogste top van de mediale malleolus en de
+    achillespees'
+  aard: ! ' Yuan source'
+  actie:
+  - ! ' Voedt nier yin en klaart hite leegte. Voedt nier yang'
+- !ruby/object:Acupunt
+  afk: Ni 4
+  name: ! ' grote klok'
+  chname: ! ' Dazhong'
+  locatie: 0.5 cun achter het middelpunt van de lijn Ni3 - Ni5. Tegen de voorrand
+    van de achillespees
+  aard: ! ' Luo punt'
+  actie:
+  - ! ' Versterkt de nieren. Versterkt de zhi en verdrijft angst.'
+- !ruby/object:Acupunt
+  afk: Ni 5
+  name: ! ' waterbron'
+  chname: ! ' Shuiquan'
+  locatie: ! ' 1 cun onder Ni3 in de depressie achter en boven(de mediale zijde) van
+    de tuberositas van het hielbeen'
+  aard: ! ' xi cleft'
+  actie:
+  - ! ' Ondersteunt het urineren.Verwijdert obstructie uit de meridiaan.'
+- !ruby/object:Acupunt
+  afk: Ni 6
+  name: ! ' de zee van verlichting'
+  chname: ! ' Zhaohai'
+  locatie: ! ' 1 cun onder de top van de binnenenkel in een groef.'
+  aard: ! ' '
+  actie:
+  - ! ' Voedt nier yin'
+- !ruby/object:Acupunt
+  afk: Ni 7
+  name: ! ' terugvloeiende stroom'
+  chname: ! ' Fuliu'
+  locatie: ! ' 2 cun boven Ni3 op de rand van de achillespees'
+  aard: ! ' '
+  actie:
+  - ! ' Voedt nier yang. Reguleert de waterpassage en behandelt oedeem. Versterkt
+    de lumbaire regio.'
+- !ruby/object:Acupunt
+  afk: Ni 10
+  name: ! ' dal van het yin'
+  chname: ! ' Yingu'
+  locatie: ! ' ligt bij gebogen knie aan de mediale einde knieplooi tussen de pezen
+    van de m.semimembranosus en de m.semitendinosus.'
+  aard: ! ' '
+  actie:
+  - ! ' Ondersteunt nier yin'
+- !ruby/object:Acupunt
+  afk: Ni 11
+  name: ! ' dwars bot'
+  chname: ! ' Henggu'
+  locatie: ! ' Op de bovenrand van het schaambeen. 5 cun onder de navel. 0.5 cun naast
+    renmai 2'
+  aard: ''
+  actie:
+  - ! ' Ondersteunt de OW'
+- !ruby/object:Acupunt
+  afk: Ni 21
+  name: ! ' de afgelegen poort'
+  chname: ! ' Youmen'
+  locatie: ! ' 6 cun boven de navel. 0.5 cun naast renmai 14.'
+  aard: ''
+  actie:
+  - ! ' Versterkt de milt. Harmoniseert de maag. Verminderd rebellie. Verspreidt lever
+    qi. Ondersteunt het hart. Verminderd pijn. '
+- !ruby/object:Acupunt
+  afk: Ni 27
+  name: ! ' verzamelplaats voor de beinvloeding.'
+  chname: ! ' Shufu'
+  locatie: ! ' Aan de onderrand van de clavicula. 2 cun naast de renmai meridiaan.'
+  aard: ! ' '
+  actie:
+  - ! ' Stimuleert de nierfunctie in het ontvangen van longqi.'

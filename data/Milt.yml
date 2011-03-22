@@ -1,0 +1,137 @@
+--- !ruby/object:Orgaan
+points: ./data/Milt.csv
+functies:
+  De Milt verzorgt transport en transformatie (Yun Hua): ! 'Deze functie speelt een
+    belangrijke rol bij de formatie van Qi en Bloed . De Milt
+
+    onttrekt de essentie uit voedsel en water, nadat het is voorverteerd (in T.C.M.
+
+    rijpen en rotten) door de Maag. De Milt scheidt hiermee het zuivere van het
+
+    onzuivere. Het onzuivere wordt uitgescheiden via de Darmen en de Blaas. De Milt
+
+    stuwt deze zuivere essentie vervolgens opwaarts naar de thorax, waar het wordt
+
+    omgezet in Qi, Bloed en Vloeistoffen (Jinye’s).'
+  De Milt houdt de Qi op: ! 'De Milt energie heeft een opwaartse beweging. De Milt
+    is hierdoor in staat om de
+
+    zuivere essentie uit drank en voedsel naar de thorax te sturen. Het is deze
+
+    opwaartse beweging die ervoor zorgt dat alle weefsels en Zang Fu stevig op hun
+
+    plaats blijven zitten.'
+  De Milt houdt het Bloed in de vaten: ! 'De Milt is de bron van Qi en Bloed . Bij
+    een gezond functionerende Milt is deze
+
+    bron sterk genoeg om voldoende Bloed aan te maken en zal er voldoende Qi zijn.
+
+    Qi beweegt bloed hierdoor zal Qi ervoor zorgen dat het Bloed de goede weg
+
+    volgt.
+
+    Net zoals de Milt de Organen op zijn plaats houdt, zal het ook zorgen dat de vaten
+
+    stevig zijn, waardoor het Bloed niet buiten de vaten zal gaan stromen.'
+  De Milt herbergt de Yi: ! 'De Yi is de psychische faculteit van de Milt en kan vertaald
+    worden met
+
+    concentratie. De Yi beïnvloedt de capaciteit tot denken, gericht studeren,
+
+    concentreren en onthouden.'
+  De Milt controleert de ledematen en voedt de spieren: ! 'De Milt onttrekt Gu Qi
+    aan voedsel / drank en transporteert het vervolgens door het
+
+    gehele lichaam, om zodoende de spieren (vooral die in de ledematen) te voorzien
+
+    van voeding. Het goed functioneren van de Milt kan men dan ook herkennen aan
+
+    een goed ontwikkelde en kracht ige musculatuur.'
+  De Milt opent in de mond en manifesteert zich in de lippen: ! 'De Milt voedt de
+    spieren en dus ook de musculatuur van de mond. Goed kauwen
+
+    is het begin van het gehele verteringsproces en is de verantwoordelijkheid van
+    de
+
+    Milt. Een goed functionerende Milt stelt de mond in staat om de vijf smaken te
+
+    onderscheiden.
+
+    De lippen zijn spieren en worden dus ook door de Milt gevoed. Een gezonde Milt
+
+    geeft dan ook glanzende, roze lippen.'
+punten:
+- !ruby/object:Acupunt
+  afk: Mi 1
+  name: Verborgen witheid
+  chname: Yinbai
+  locatie: Mediale nagelhoek v/d grote teen
+  aard: !!null 
+  actie: !!null 
+- !ruby/object:Acupunt
+  afk: Mi 3
+  name: Het grootste witte
+  chname: Taibai
+  locatie: Mediale en proximale zijde v/d kop van het 1e metatarsale bot
+  aard: Yuan source
+  actie:
+  - -Tonifieert milt en lost damp en damp-hitte op -harmoniseert milt en maag
+- !ruby/object:Acupunt
+  afk: Mi 4
+  name: Kleinzoon v/d hertog
+  chname: Gongsun
+  locatie: Mediale zijde v/d voet distaal en onder de basis v/h 1e metatarsale bot
+  aard: Luo punt
+  actie:
+  - -Versterkt de milt en harmoniseert de MW.-reguleert qi en lost damp op.-reguleert
+    chongmai
+- !ruby/object:Acupunt
+  afk: Mi 6
+  name: Verbinding van 3 yin
+  chname: Sanyinjiao
+  locatie: 3 cun boven de top v/d binnenenkel aan de achterrand v/d tibia
+  aard: ''
+  actie:
+  - -tonifieert milt en maag.-lost damp op.-harmoniseert de lever en tonifieert de
+    nieren.
+- !ruby/object:Acupunt
+  afk: Mi 8
+  name: Mechanisme v/d aarde
+  chname: Diji
+  locatie: 3 cun onder Mt9 op 1/3 vanaf kniespleet en binnenenkel)
+  aard: Xi-cleft
+  actie:
+  - -Reguleert menstruatie en versterkt xue..-Verminderd acute buikklachten
+- !ruby/object:Acupunt
+  afk: Mi 9
+  name: Bron aan de yin-grafheuvel
+  chname: Yinlingguan
+  locatie: Binnenkant v/h kniegewricht in de holte onder /tegen het tibiaplateau
+  aard: ''
+  actie:
+  - -Reguleert de milt en lost damp op..-opent en beweegt de waterpassages
+- !ruby/object:Acupunt
+  afk: Mi 10
+  name: Zee van het bloed
+  chname: Xuehai
+  locatie: 2 cun boven de patella op de verhoging v/h mediale deel van de quadriceps
+  aard: ''
+  actie:
+  - -Versterkt xue en verdrijft stasis.-koelt xue.-harmoniseert de menstruatie
+- !ruby/object:Acupunt
+  afk: Mi 15
+  name: Punt v/d grote dwarsplooi
+  chname: Daheng
+  locatie: 4 cun lateraal van renmai ter hoogte v/d navel
+  aard: ''
+  actie:
+  - -beweegt qi en reguleert de darmen.-versterkt de milt
+- !ruby/object:Acupunt
+  afk: Mi 21
+  name: De grote onthulling
+  chname: Dabao
+  locatie: Op de middelste axillairlijn in de 7e intercostale ruimte
+  aard: Groot LUO punt
+  actie:
+  - -reguleert qi en xue, verstevigd zenuwen en gewrichten..-bevrijdt de borst en
+    ondersteund de laterale costale regio

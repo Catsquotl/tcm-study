@@ -1,0 +1,75 @@
+--- !ruby/object:Orgaan
+points: ./data/Pericard.csv
+functies:
+  Het Hart verdedigen tegen externe en interne pathogene factoren: ! 'Het Pericard
+    is als een slotgracht om het paleis van de Keizer. Hiermee wordt de
+
+    beschermende functie van het Pericard duidelijk. Het Pericard probeert de
+
+    pathogene verstoringen (m.n. hitte) weg te houden van het Hart door het af te
+
+    leiden.'
+punten:
+- !ruby/object:Acupunt
+  afk: Pc 1
+  name: ! ' vijver van de hemel'
+  chname: ! ' Tianchi'
+  locatie: ! ' 1 cun naast de tepel in de vierde intercostale ruimte.'
+  aard: ! ' '
+  actie:
+  - ! ' Maakt de borst vrij. Transformeert slijm en laat rebellerend qi dalen.'
+- !ruby/object:Acupunt
+  afk: ! 'Pc 3 '
+  name: ! ' de gebogen veenplas'
+  chname: ! ' Quze'
+  locatie: ! ' op de elleboogplooi aan de ulnaire zijde van de pees van de m. biceps
+    brachii'
+  aard: ! ' '
+  actie:
+  - ! ' Klaart hitte. Harmoniseert de maag en darmen en stopt overgeven.'
+- !ruby/object:Acupunt
+  afk: ! 'Pc 4 '
+  name: ! ' spleetpoort'
+  chname: ! ' Ximen'
+  locatie: ! ' Op de binnenzijde van de onderarm, 5 cun boven de buigplooi van de
+    pols, tussen de pezen die naar de hand lopen'
+  aard: ! ' xi-cleft'
+  actie:
+  - ! ' Kalmeet de shen. Heft stagnatie in de meridiaan op.'
+- !ruby/object:Acupunt
+  afk: Pc 6
+  name: ! ' Binnenpas'
+  chname: ! ' Neiguan'
+  locatie: ! ' 2 cun boven de buigplooi van de pols, tussen de pezen. Op de lijn pc3-pc7'
+  aard: ! ' Luo punt. Openingspunt Yin wei mai. Commandopunt Thorax.'
+  actie:
+  - ! ' Opent de borst. Reguleert het hart en kalmeert de shen. Harmoniseert de maag
+    en verminderd misselijkheid en braken.'
+- !ruby/object:Acupunt
+  afk: Pc 7
+  name: ! ' grote grafheuvel'
+  chname: ! ' Daling'
+  locatie: ! ' In het midden van de buigplooi van de pols. Tussen de pezen op dezelfde
+    hoogte als H7 en Lo 9'
+  aard: ! ' Yuan source'
+  actie:
+  - ! ' Klaart hitte van het hart en kalmeert de shen.'
+- !ruby/object:Acupunt
+  afk: Pc 8
+  name: ! ' Midden van de handpalm'
+  chname: ! ' Laogong'
+  locatie: ! ' Aan de binnenzijde van de hand tussen de 2e en 3e middenhandsbeentjes.
+    Waar het topje van je ringvinger rust als je een vuist maakt.'
+  aard: ! ' '
+  actie:
+  - ! ' Klaart hitte van het Pericardium en laat bijkomen uit bewusteloosheid. Klaart
+    hitte van het hart en kalmeert de shen'
+- !ruby/object:Acupunt
+  afk: Pc 9
+  name: ! ' de middelste grote straat'
+  chname: ! ' Zhongchong'
+  locatie: ! ' Midden op de top van de middelvinger, bijna onder de nagel'
+  aard: ! ' '
+  actie:
+  - ! ' Klaart hitte van het Pericard en laat bijkomen uit bewusteloosheid. Klaart
+    hitte van het hart en ondersteind de tong.'

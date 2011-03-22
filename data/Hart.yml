@@ -1,0 +1,119 @@
+--- !ruby/object:Orgaan
+points: ./data/Hart.csv
+functies:
+  Het Hart regeert Bloed (xue) en de Bloedvaten (Xue Mai): ! 'Hart (Xin) regeert Bloed
+    op twee manieren, n.l.:
+
+    1. Het Hart is de transformatieplaats waar Gu - Qi wordt getransformeerd in
+
+    Bloed .
+
+    2. Het Hart is verantwoordelijk voor de circulatie van bloed door het lichaam.
+
+    Alle Bloedvaten zijn verbonden met het Hart, waarin het bloed circuleert (Yinne
+
+    functie). Door de stuwende kracht van Hart - Qi wordt de circulatie op gang
+
+    gehouden (Yange functie), waardoor het hele lichaam wordt voorzien van
+
+    bloed/voeding.'
+  Het Hart herbergt de Shen (Geest): ! 'Volgens de Yin en Yang - theorie kunnen Yin
+    en Yang nooit apart van elkaar
+
+    bekeken worden. Als men vanuit dit standpunt kijkt naar het Hart, heeft het Hart
+
+    dus een Yinne - en een Yange - functie. Het meest Yange aspect van het Hart is
+
+    de Shen.
+
+    Indien men spreekt over de Shen in enge zin, wordt er verwezen naar de klaarheid
+
+    van het bewustzijn en de scherpzinnigheid van het mentale vermogen.
+
+    In de brede zin controleert en coördineert het Hart de psychische faculteiten
+    van
+
+    de andere Zang Fu.'
+  Het Hart manifesteert zich in het gelaat: ! 'Deze functie valt deels samen met het
+    eerste punt. Het gelaat is een zeer rijk
+
+    doorbloed gebied. Bij voldoende Hart - Qi en Hart - Bloed is het gelaat dus roz?€e,
+
+    is de huid glanzend en stralen de ogen (Shen functie).'
+  Het Hart opent in de tong: ! 'Het interne verloop van de Hartmeridiaan is rechtstreeks
+    verbonden met de wortel
+
+    van de tong. De status van het Hart wordt dus gereflecteerd op de tong. M.a.w.;
+    in
+
+    de T.C.M. ziet men de tong als spiegel van het Hart. Een gezond functionerende
+
+    Hart controleert dus het voorkomen, de kleur, de vorm, de smaak en de spraak
+
+    van de tong.'
+  Het Hart controleert het zweet: ! 'Bloed en Jinye’s (lichaamsvloeistoffen) hebben
+    een gezamenlijke bron. Ze worden
+
+    beide gevormd uit de essentie van voedsel. De functie van de lichaamsvloeistoffen
+
+    loopt dus grotendeels parallel aan die van Bloed . Hieruit kunnen we afleiden
+    dat
+
+    het Hart dus ook de vloeistoffen controleert, m.n. het zweet.'
+punten:
+- !ruby/object:Acupunt
+  afk: Ht 1
+  name: Bron aan het uiteinde
+  chname: Jiguan
+  locatie: In de depressie van de oksel
+  aard: ''
+  actie:
+  - Voedt het Hart Yin
+- !ruby/object:Acupunt
+  afk: Ht 3
+  name: De kleine zee
+  chname: Shaohai
+  locatie: ''
+  aard: He-sea
+  actie:
+  - ! '- Kalmeert de shen.- Transformeert slijm en klaart hitte'
+- !ruby/object:Acupunt
+  afk: Ht 5
+  name: Het verbindende dorp
+  chname: Tongli
+  locatie: 1 cun boven Ht7. Radiale zijde v/d pinkpees
+  aard: Luo-punt
+  actie:
+  - -Kalmeert shen.-Tonifieert hartQi.-ondersteund de tong
+- !ruby/object:Acupunt
+  afk: Ht 6
+  name: Spleetpunt van het kleine yin
+  chname: YinXi
+  locatie: 0,5 cun boven Ht7. Radiale zijde pinkpees
+  aard: xi-cleft
+  actie:
+  - -Reguleert Hart Yin.-kalmeert de Shen.-activeert de meridiaan en verminderd pijn
+- !ruby/object:Acupunt
+  afk: Ht 7
+  name: Weg naar de vrolijkheid
+  chname: Duichong Shenmen
+  locatie: Op de polsplooi lateraal naast de pees van de pink
+  aard: Yuan source
+  actie:
+  - -Tonifieert hart bloed.-kalmeert de geest
+- !ruby/object:Acupunt
+  afk: Ht 8
+  name: De kleine vergaderzaal
+  chname: Shaofu
+  locatie: In de handpalm waar de pinktop rust bij het maken van een vuist
+  aard: vuurpunt
+  actie:
+  - -Klaart hitte v/h hart en dunne darm.-kalmeert de shen
+- !ruby/object:Acupunt
+  afk: Ht 9
+  name: De kleinere weg
+  chname: Shaochong
+  locatie: 0,1 cun onder radiale nagelhoek v/d pink
+  aard: Jing well
+  actie:
+  - -Bewaart het bewustzijn.-klaart hitte

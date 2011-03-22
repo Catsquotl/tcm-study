@@ -1,0 +1,89 @@
+--- !ruby/object:Orgaan
+points: ./data/Dikkedarm.csv
+functies:
+  De Dikke Darm ontvangt het onzuivere van de Dunne Darm.: ! 'De Dikke Darm ontvangt
+    het onzuivere gedeelte van voedsel en drank van de
+
+    Dunne Darm (Dunne Darm). Dit wordt onder invloed van de Dikke Darm
+
+    neerwaarts afgevoerd. Tijdens dit proces vindt er wederom een scheiding plaats
+
+    van het zuivere en onzuivere. Het zuivere vloeibare deel (vloeistoffen) wordt
+
+    opgenomen en aan het eind wordt het onzuivere vaste deel (faeces) door de
+
+    Dikke Darm geëlimineerd.'
+punten:
+- !ruby/object:Acupunt
+  afk: Did 1
+  name: Uiterst Yang
+  chname: Shangyang
+  locatie: Nagelhoek van wijsvinger duimzijde
+  aard: !!null 
+  actie: !!null 
+- !ruby/object:Acupunt
+  afk: Did 4
+  name: Verenigde dalen
+  chname: Hegu
+  locatie: Op het heuveltje dat ontstaat als je duim en wijsvinger bij elkaar brengt.
+  aard: Yuan-bronpunt
+  actie:
+  - Reguleert wei qi en regelt het zweten. Verdrijft wind en bevrijd het externe.
+    Reguleert het  gezicht, ogen, neus, mond en oren
+- !ruby/object:Acupunt
+  afk: Did 6
+  name: scheve doorgang
+  chname: Pianli
+  locatie: 3 cun boven snuifdoos op de lijn Did5-Did11
+  aard: Luo connectie
+  actie:
+  - Opent en reguleert de waterpassage
+- !ruby/object:Acupunt
+  afk: Did 7
+  name: Verwarmende stroom
+  chname: Wenliu
+  locatie: 5 cun boven snuifdoos op de lijn did 5-did 11
+  aard: Xi-cleft
+  actie:
+  - Klaart hitte en detoxifieerd. Verwijderd obstructie van de meridiaan
+- !ruby/object:Acupunt
+  afk: Did 10
+  name: 3 dorpenpunt van de hand
+  chname: Shousanli
+  locatie: 2 cun onder did 11 op de lijn did5-did11
+  aard: ''
+  actie:
+  - Reguleert Qi en Xue. Activeert de meridiaan en verminderd pijn.
+- !ruby/object:Acupunt
+  afk: Did 11
+  name: Gebogen vijver
+  chname: Quchi
+  locatie: einde van de elleboogplooi aan laterale zijde als arm gebogen is.
+  aard: ''
+  actie:
+  - Klaart hitte. Koelt Xue, elimineert externe en interne wind, draineerd damp en
+    verminderd jeuk
+- !ruby/object:Acupunt
+  afk: Did 15
+  name: Schouderbot
+  chname: Jianyu
+  locatie: Voorste kuiltje van schouder
+  aard: Ontmoetingspunt Did met yang qiao mai
+  actie:
+  - Verdwijft wind-damp, verminderd pijn en ondersteunt het schoudergewricht
+- !ruby/object:Acupunt
+  afk: Did 16
+  name: Groot bot
+  chname: Jugu
+  locatie: Op schouder tussen clavicula en scapula
+  aard: Ontmoetingspunt Did met yang qiao mai
+  actie:
+  - Activeert meridian, verminderd pijn en ondersteunt het schoudergewricht
+- !ruby/object:Acupunt
+  afk: Did 20
+  name: Ontvangst van aangename geuren
+  chname: YingXiang
+  locatie: In holte(tje) naast neusvleugel overzijde van de meridiaan
+  aard: Ontmoetingspunt Di dan Mg
+  actie:
+  - Opent de neus. Verdrijft wind en hitte

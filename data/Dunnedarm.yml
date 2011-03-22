@@ -1,0 +1,118 @@
+--- !ruby/object:Orgaan
+points: ./data/Dunnedarm.csv
+functies:
+  De Dunne Darm controleert de ontvangst en transformatie: ! 'De Dunne Darm is het
+    orgaan dat volgt na de Maag en dientengevolge ontvangt
+
+    het dus voorverteerd voedsel / drank. Dit voorverteerde voedsel wordt verder
+
+    afgebroken door de Dunne Darm'
+  De Dunne Darm scheidt het zuivere van het onzuivere: ! 'Onder invloed van de Dunne
+    Darm ondergaat het voorverteerde voedsel nogmaals
+
+    een scheiding. In dit proces wordt het zuivere van het onzuivere gescheiden. Het
+
+    zuivere deel gaat de Milt en het onzuivere deel wordt afgevoerd via de Dikke
+
+    Darm.'
+  De Dunne Darm scheidt vloeistoffen: ! 'Deze functie valt samen met de vorige. Het
+    onzuivere deel van de vloeistoffen uit
+
+    de Maag wordt door de Dunne Darm wederom gescheiden in zuiver en onzuiver.
+
+    Het onzuivere deel gaat naar de Dikke Darm waar het wordt opgenomen en het
+
+    zuivere deel gaat naar de Blaas.'
+punten:
+- !ruby/object:Acupunt
+  afk: Dud 1
+  name: De kleine veenplas
+  chname: Shaoze
+  locatie: 0,1 cun ulnaire zijde van de nagelhoek pink
+  aard: Jing well
+  actie:
+  - -Klaart wind-hitte en ondersteunt de zintuigen.-helpt bij bewustzijnsverlies
+- !ruby/object:Acupunt
+  afk: Dud 3
+  name: Achterste waterloop
+  chname: Houxi
+  locatie: Ulnaire zijde v/d hand aan de basis van de pink
+  aard: ''
+  actie:
+  - -elimineert interne wind in de du mai.-verdrijft externe wind.-kalmeert de shen
+- !ruby/object:Acupunt
+  afk: Dud 4
+  name: Polsbot
+  chname: Wangu
+  locatie: Ulnaire zijde v/d hand.Aan de basis tegenover de basis van de duim
+  aard: ''
+  actie:
+  - -Activeert de meridiaan en verminderd pijn..-klaart damp-hitte
+- !ruby/object:Acupunt
+  afk: Dud 6
+  name: Gelukkige ouderdom
+  chname: Yanglao
+  locatie: Beenderige groef radiaal v/d proc. Styloideus van de ulna.(zet vinger op
+    botje en breng hand naar borst)
+  aard: xi-cleft
+  actie:
+  - -activeert de meridiaan en verminderd pijn
+- !ruby/object:Acupunt
+  afk: Dud 7
+  name: Steun voor het rechtop lopen
+  chname: Zhizeng
+  locatie: 5 cun boven de pols. Op de lijn dud5-dud8 aan de ulnaire zijde
+  aard: Luo
+  actie:
+  - -Kalmeert de shen.-activeert de meridiaan en verminderd pijn
+- !ruby/object:Acupunt
+  afk: Dud 8
+  name: Kleine zee
+  chname: Xiaohai
+  locatie: Ligt in de groef tussen het olecranon en de mediale epicondyle v/d humerus
+  aard: ''
+  actie:
+  - -Klaart hitte en laat zwelling verdwijnen.-kalmeert de shen.-activeert de meridiaan
+    en verminderd pijn
+- !ruby/object:Acupunt
+  afk: Dud 9
+  name: Schouder recht
+  chname: Jianzhen
+  locatie: 1 cun boven het einde van de achterste okselplooi
+  aard: ''
+  actie:
+  - -verdrijft wind en ondersteunt de schouder.-activeert de meridiaan en verminderd
+    pijn
+- !ruby/object:Acupunt
+  afk: Dud 10
+  name: Invloedpunt van de armspieren
+  chname: Naoshu
+  locatie: Direct boven dud9 in een depressie van de spina scapula
+  aard: ''
+  actie:
+  - -ondersteunt de schouder.-activeert de meridiaan en verminderd pijn
+- !ruby/object:Acupunt
+  afk: Dud 11
+  name: Hemels voorgeslacht
+  chname: Tianzong
+  locatie: 1 cun onder het midden van de rand v/h spina scapulas
+  aard: ''
+  actie:
+  - -verdrijft wind en ondersteunt het schouderblad
+- !ruby/object:Acupunt
+  afk: Dud 12
+  name: Greep op de wind
+  chname: Binfeng
+  locatie: 1 cun boven het midden v/d rand v/d spina scapula op de lijn van dud11
+  aard: ''
+  actie:
+  - -verdrijft wind en ondersteunt de schouder en het schouderblad
+- !ruby/object:Acupunt
+  afk: Dud 19
+  name: Paleis van het gehoor
+  chname: Tinggong
+  locatie: Voor het oor in de holte tussen trachus en kaakgewricht bij een licht geopende
+    mond
+  aard: ''
+  actie:
+  - -Ondersteunt de oren

@@ -1,0 +1,143 @@
+--- !ruby/object:Orgaan
+points: ./data/Long.csv
+functies:
+  De Long domineert de ademhaling en controleert Qi: ! 'Zong Qi (borstkas - Qi) is
+    het product dat ontstaat uit het zuivere deel van Gu Qi,
+
+    (Graan Qi) en het zuivere deel van de Kong Qi (ingeademde lucht). Het is deze
+
+    Zong Qi die het Hart doet kloppen en de Long aanzet tot ademhalen. Onder
+
+    invloed van Zong Qi controleert de Long hoofdzakelijk de inademing van pure
+
+    Kong Qi en door ondersteuning van de Nier (Shen) het uitademen van onzuivere
+
+    Kong Qi. Daarmee ondersteunt de Zong Qi de Long bij het circuleren van Qi door
+
+    het lichaam.'
+  De Long heeft een spreidende en dalende functie: ! 'De spreidende functie van de
+    Long is verantwoordelijk voor het circuleren van Qi
+
+    door het lichaam. Uit de Zong Qi wordt Zhen Qi (ware Qi) geproduceerd, die in
+
+    twee delen uiteen valt, n.l. Wei Qi (defensieve Qi) en Ying Qi (voedende Qi).
+    Het
+
+    zijn deze laatste twee vormen van Qi die door de Long door het gehele lichaam
+
+    worden verspreid. De Long fungeert eigenlijk als een soort stuwmotor, die de Ying
+
+    Qi de meridianen in pompten en de Wei Qi buiten de
+
+    hoofdmeridianen laat circuleren.
+
+    Aangezien de Long beschouwd wordt als het hoogst gelokaliseerde orgaan in het
+
+    lichaam, is de natuurlijke beweging van Qi neerwaarts. Hiermee zorgt de Long
+
+    ervoor dat de Jinye’s’s (lichaamsvloeistoffen) naar beneden worden gestuurd om
+
+    door de Shen (Nier) ontvangen te worden. Dit proces wordt omschreven in de
+
+    T.C.M. als de dalende functie van de Long .'
+  De Long opent en reguleert de waterwegen: ! 'Deze functie wordt gevormd door de
+    combinatie van de spreidende en dalende
+
+    functie van de Long , zoals hiervoor beschreven. Zoals men heeft kunnen lezen
+
+    stuurt de Long de Jinye’s’s naar de Nier. De Nier scheidt een deel van deze
+
+    vloeistoffen uit via de Blaas en de resterende vloeistoffen worden door de Nier
+
+    weer verdampt en teruggestuurd naar de Long , die zodoende weer bevochtigd
+
+    wordt. De Long neemt dus actief deel aan de uitscheiding van vloeistoffen via
+
+    zweten en urineren.'
+  De Long herbergt de Po: ! 'De Long herbergt de Po, wat vertaald kan worden als de
+    lichamelijke ziel of
+
+    vitaliteit. De Po is het meest fysieke en tegelijkertijd het meest materiële deel
+    van
+
+    ons zielsleven. Er wordt ook wel eens gezegd dat de Po de somatische
+
+    manifestatie is van de ziel.'
+  De Long domineert de huid en het lichaamshaar: ! 'Deze functie steunt voor een groot
+    gedeelte op de goede uitvoering van de
+
+    spreidende en dalende functie en de controlerende functie van Qi van de Long .
+
+    Indien deze functies adequaat verlopen, is de Long in staat om de huid en het
+
+    lichaamshaar te voorzien van voeding en vocht.'
+punten:
+- !ruby/object:Acupunt
+  afk: Lo 1
+  name: Verzamelplaats van het midden
+  chname: ZhongFu
+  locatie: 1 cun onder clavicula en 6 cun lateraal van middenlijn. In de 1ste intercostale
+    ruimte
+  aard: Front Mu punt
+  actie:
+  - Verspreidt en laat Long QI dalen
+- !ruby/object:Acupunt
+  afk: Lo 2
+  name: Wolkenpoort
+  chname: Yunmen
+  locatie: 1 cun boven Lo 1
+  aard: ''
+  actie:
+  - Verspreidt en laat Long QI dalen
+- !ruby/object:Acupunt
+  afk: Lo 5
+  name: Veenplas aan het voetpunt
+  chname: Chize
+  locatie: In elleboogplooi aan laterale zijde van de biceppees
+  aard: He-sea
+  actie:
+  - Klaart longhitte en laat rebelerend Qi dalen
+- !ruby/object:Acupunt
+  afk: Lo 6
+  name: De diepte van het gat
+  chname: Kongzui
+  locatie: 5 cun onder Lo 5 op de lijn Lo 5-Lo9.7 cun boven polsplooi
+  aard: Xi-cleft punt
+  actie:
+  - Verspreid en laat long Qi dalen.Klaart hitte en bevochtigd de long.Verwijderd
+    obstructie van de meridiaan.
+- !ruby/object:Acupunt
+  afk: Lo 7
+  name: Rij gaten
+  chname: Lieque
+  locatie: 1,5 cun boven polsplooi op het begin v/d processus styloideus. (1,5 cun
+    boven de snuifdoos)
+  aard: Luo connectie.
+  actie:
+  - Bevrijdt het externe en verdrijft wind, Openingspunt van renmai, Opent en reguleert
+    de RenMai
+- !ruby/object:Acupunt
+  afk: Lo 9
+  name: Grote draaikolk
+  chname: Taiyuan
+  locatie: In depressive op pols naast abductor pollicis longus. Kuiltje voor snuifdoos
+  aard: Yuan-bronpunt
+  actie:
+  - Tonifieert long en transformeert slijm
+- !ruby/object:Acupunt
+  afk: Lo 10
+  name: Grens van de visbuik
+  chname: Yuji
+  locatie: Op scheiding van rode en witte huid in het midden van middenhandsbeentje
+    duim
+  aard: Ying-spring
+  actie:
+  - Ondersteunt de keel.
+  - Klaart longhitte
+- !ruby/object:Acupunt
+  afk: Lo 11
+  name: ''
+  chname: Shaoshang
+  locatie: Buitenste nagelhoek duim
+  aard: Einde longmeridiaan
+  actie: []

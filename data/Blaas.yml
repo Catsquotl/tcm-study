@@ -1,0 +1,320 @@
+--- !ruby/object:Orgaan
+points: ./data/Blaas.csv
+functies:
+  Pang Guang (de Blaas) scheidt urine uit door Qi Transformatie: ! 'Blaas ontvangt
+    het zuivere deel van de vloeistoffen uit de Dunne Darm.
+
+    Opnieuw vindt er weer een scheiding plaats tussen zuiver en onzuiver. Het
+
+    onzuivere deel wordt uitgescheiden als urine, het zuivere deel wordt opnieuw in
+
+    circulatie gebracht'
+punten:
+- !ruby/object:Acupunt
+  afk: Bl 1
+  name: ! ' Helderheid van het oog'
+  chname: ! ' Jingming'
+  locatie: ! ' 0.1 cun mediaal en boven de binnenhoek naast de mediale rand van de
+    oogkas'
+  aard: ! ' '
+  actie:
+  - ! ' '
+- !ruby/object:Acupunt
+  afk: Bl 2
+  name: ! ' samengelegde bamboes'
+  chname: ! ' Zanzhu'
+  locatie: ! ' On dde depressie bijna aan het mediale uiteinde van de wenkbrauw recht
+    boven de binnenooghoek.'
+  aard: ! ' '
+  actie:
+  - ! ' Elimineert interne en externe wind en klaart hitte. Ondersteunt de ogen'
+- !ruby/object:Acupunt
+  afk: Bl 10
+  name: ! ' Hemelzuil'
+  chname: ! ' Tianzhu'
+  locatie: ! ' 1.3 cun naast dumai 15. binnen de haargrens op de laterale zijde van
+    de m.trapezius'
+  aard: ! ' '
+  actie:
+  - ! ' Reguleert qi en bedaard wind. Ondersteunt het hoofd en de zintuigen. Verheldert
+    de zee van merg.'
+- !ruby/object:Acupunt
+  afk: Bl 11
+  name: ! ' Grote weversspoel'
+  chname: ! ' Dazhu'
+  locatie: ! ' 1.5 cun naast de onderrand van de spinaal uitsteeksel van TH 1'
+  aard: ! ' '
+  actie:
+  - ! ' Ondersteunt de botten en gewrichten'
+- !ruby/object:Acupunt
+  afk: ! 'Bl 12 '
+  name: ! ' windpoort'
+  chname: ! ' Fengmen'
+  locatie: ! ' 1.5 cun naast de onderrand van het soinaal uitsteeksel TH 2'
+  aard: ! ' '
+  actie:
+  - ! ' Verdrijft wind en bevrijd het externe. Sterkt het wei qi en maakt het externe
+    sterker. Verspreidt en laat longqi dalen.'
+- !ruby/object:Acupunt
+  afk: Bl 13
+  name: ! ' invloedpunt van de long'
+  chname: ! ' Feishu'
+  locatie: ! ' 1.5 cun naast het spinaal uiteinde TH 3'
+  aard: ! ' back shu long'
+  actie:
+  - ! ' Tonifieert longqi en voedt long yin. Verspreidt en laat longqi dalen. Klaart
+    hitte van de longen. Bevrijd het externe.'
+- !ruby/object:Acupunt
+  afk: Bl 14
+  name: ! ' Invloedpunt voor het veranderend yin'
+  chname: ! ' Jueyinshu'
+  locatie: ! ' 1.5 cun nqqdt de onderrand van spinaaluitsteeksel TH 4'
+  aard: ! ' back shu pericard'
+  actie:
+  - ! ' reguleert het hart'
+- !ruby/object:Acupunt
+  afk: Bl 15
+  name: ! ' Invloedunt van het hart'
+  chname: ! ' Xinshu'
+  locatie: 1.5 cun naast het spinaal uitsteeksel TH 5
+  aard: ! ' Back shu hart'
+  actie:
+  - ! ' Tonifieert en voedt het hart. Kalmeert de shen.'
+- !ruby/object:Acupunt
+  afk: Bl 17
+  name: ! ' invloedtpunt van het middenrif'
+  chname: ! ' Geshu'
+  locatie: ! ' 1.5 cun naast de onderrand van spinaal uitsteeksel TH 7'
+  aard: ! ' '
+  actie:
+  - ! ' Versterkt bloed en verdrijft stasis. Koelt bloed en stopt bloeden. voedt en
+    harmoniseert bloed. Harmoniseert het diafragma en laat rebelerend qi dalen.'
+- !ruby/object:Acupunt
+  afk: Bl 18
+  name: ! ' Invloedpunt van de lever'
+  chname: ! ' Ganshu'
+  locatie: 1.5 cun naast de onderrand van spinaal uitsteeksel TH9
+  aard: ! ' back shu lever'
+  actie:
+  - ! ' Verspreidt lever qi. Reguleert en voedt lever bloed'
+- !ruby/object:Acupunt
+  afk: Bl 19
+  name: ! ' Invloed punt van de galblaas'
+  chname: ! ' Danshu'
+  locatie: ! ' 1.5 cun naast de onderrand van spinaal uitsteeksel TH 10'
+  aard: ! ' back shu galblaas'
+  actie:
+  - ! ' Klaart damp-hitte van de lever en galblaas. Tonifieert en reguleert galblaasqi.'
+- !ruby/object:Acupunt
+  afk: ! 'Bl 20 '
+  name: ! ' invloedtpunt van het midden en Milt'
+  chname: ! ' Pishu'
+  locatie: 1.5 cun naast de onderrand van spinaal uitsteeksel TH 11
+  aard: ! ' back shu Milt'
+  actie:
+  - ! ' Tonifieert milt qi en yang. Lost damp op'
+- !ruby/object:Acupunt
+  afk: ! 'Bl 21 '
+  name: ! ' invloed punt van de maag'
+  chname: ! ' Weishu'
+  locatie: 1.5 cun naast de onderrand van spinaal uitsteeksel TH12
+  aard: ! ' back shu Maag'
+  actie:
+  - ! ' reguleert de maag en laat rebellerend qi dalen'
+- !ruby/object:Acupunt
+  afk: Bl 22
+  name: ! ' invloedtpunt van de driewarmer'
+  chname: ! ' Sanjiaoshu'
+  locatie: ! ' 1.5 cun naast de onderrand naast spinaal uitsteeksel lumbale wervel
+    1'
+  aard: ! ' back shu driewarmer'
+  actie:
+  - ! ' Beweegt en reguleert de 3 warmer'
+- !ruby/object:Acupunt
+  afk: Bl 23
+  name: ! ' Invloedpunt van de Nier'
+  chname: ! ' Shenshu'
+  locatie: ! ' 1.5 cun naasst de onderrand spinaal uitsteeksel Lumbaal 2'
+  aard: ! ' Back shu van de Nieren'
+  actie:
+  - ! ' Tonifieert de nieren en versterkt nier yang. Ondersteunt Jing. voedt her nier
+    yin. Verstevigd nier qi. reguleert de waterpassages en ondersteund urineren. ondeersteund
+    en verwarmd de uterus. Ondersteund de oren en ogen. verserkt de lumbale regio.'
+- !ruby/object:Acupunt
+  afk: Bl 25
+  name: ! ' invloedpunt van de dikke darm'
+  chname: ! ' Dachangshu'
+  locatie: ! ' 1.5 cun naast de onderrand van spinaal uitsteeksel Lumbaal 4'
+  aard: ! ' back shu van de dikke darm'
+  actie:
+  - ! ' Reguleert de darmen.'
+- !ruby/object:Acupunt
+  afk: Bl 27
+  name: ! ' invloedpunt van de dunne darm.'
+  chname: ! ' Xiaochangshu '
+  locatie: ! ' ter hoogte van het achterse sacrale foramen 1.5 cun naast de dumai
+    meridiaan'
+  aard: ! ' back shu van de dunne darm'
+  actie:
+  - ! ' reguleert dunne darm qi'
+- !ruby/object:Acupunt
+  afk: Bl 28
+  name: ! ' Invloedpunt van de blaas'
+  chname: ! ' Pangguangshu'
+  locatie: ! ' ter hoogte van het 2de sacrale foramen. 1.5 cun naast de dumai meridiaan'
+  aard: ! ' back shu Blaas'
+  actie:
+  - ! ' Reguleert de blaas. klaart damp-hitte in de OW'
+- !ruby/object:Acupunt
+  afk: Bl 31
+  name: ! ' bovenste keldergat'
+  chname: ! ' Shangliao'
+  locatie: ! ' in de 1ste sacrale foramen. mediaal van Bl 27'
+  aard: ! ' '
+  actie:
+  - ! ' Voedt nieren en versterkt jing.'
+- !ruby/object:Acupunt
+  afk: Bl 32
+  name: ! ' volgende keldergat'
+  chname: ! ' Cilliao'
+  locatie: ! ' in de 2de sacrale foramen ter hoogte van Bl 28'
+  aard: ! ' '
+  actie:
+  - ! ' Voedt de nieren en versterkt jing'
+- !ruby/object:Acupunt
+  afk: Bl 33
+  name: ! ' middelste keldergat'
+  chname: ! ' Zhongliao'
+  locatie: ! ' in de 3de sacrale foramen ter hoogte van bl 29'
+  aard: ! ' '
+  actie:
+  - ! ' Voedt de nieren en versterkt jing'
+- !ruby/object:Acupunt
+  afk: Bl 34
+  name: ! ' onderste keldergat'
+  chname: ! ' Xiaoliao'
+  locatie: ! ' in het 4de sacrale foramen'
+  aard: ! ' '
+  actie:
+  - ! ' Voedt de nieren en versterk jing'
+- !ruby/object:Acupunt
+  afk: Bl 36
+  name: ! ' Spleet in het vlees'
+  chname: ! ' Chengfu'
+  locatie: ! ' in het midden van de bilplooi'
+  aard: ! ' '
+  actie:
+  - ! ' Activeert de meridiaan. ontspant de pezen en de spieren en verminderd pijn'
+- !ruby/object:Acupunt
+  afk: Bl 40
+  name: ! ' Het midden van het water'
+  chname: ! ' Weizhong'
+  locatie: ! ' Achterkant knie in de kniekuil tussen de pezen'
+  aard: ! ' commandopunt van de rug'
+  actie:
+  - ! ' Ondersteunt de lumbale regio en de knie'
+- !ruby/object:Acupunt
+  afk: Bl 42
+  name: ! ' deurgat van de ziel'
+  chname: ! ' Pohu'
+  locatie: ! ' 3 cun naast de onderrand van spinaal uitsteeksel Th3 naast Bl 13/ DM
+    12'
+  aard: ! ' Ben Shen'
+  actie:
+  - ! ' Voedt de long en Po'
+- !ruby/object:Acupunt
+  afk: Bl 44
+  name: ! ' Voorhof van de opbouwkracht'
+  chname: ! ' Shentang'
+  locatie: ! ' 3 cun naast de onderrand van spinaal uitsteeksel Th 5 naast Bl 15/DM11'
+  aard: ! ' Ben Shen'
+  actie:
+  - ! ' voedt het hart en de Shen'
+- !ruby/object:Acupunt
+  afk: Bl 47
+  name: ! ' Poort van de geest'
+  chname: ! ' Hunmen'
+  locatie: ! ' 3 cun naast spinaal uitsteeksel Th 9 Bl18/DM 8'
+  aard: ! ' Ben Shen'
+  actie:
+  - ! ' Voedt de lever en de Hun'
+- !ruby/object:Acupunt
+  afk: Bl 49
+  name: ! ' Huis van de fantasie'
+  chname: ! ' Yishe'
+  locatie: ! ' 3 cun naast de spinaaluitsteeksel TH 11 Bl20/DM6'
+  aard: ! ' ben Shen'
+  actie:
+  - ! ' voedt de milt en Yi'
+- !ruby/object:Acupunt
+  afk: Bl 52
+  name: ! ' Kamer van de potentie'
+  chname: ! ' Zhishi'
+  locatie: ! ' 3 cun naast Lumbaal 2 Bl23/DM4'
+  aard: ! ' Ben Shen'
+  actie:
+  - ! ' Voedt de nier en Zhi en ondersteund het Jing'
+- !ruby/object:Acupunt
+  afk: Bl 57
+  name: ! ' Zuil van het vlees'
+  chname: ! ' Chengshan'
+  locatie: ! ' 8 cun onder BL40. recht onder de spierbuik van de m.gastrocnemius.
+    8 cun distaal inder BL40 op de lijn BL40/ BL60'
+  aard: ! ' '
+  actie:
+  - ! ' Ontspant de pezen. Activeert de meridaan en verminderd pijn'
+- !ruby/object:Acupunt
+  afk: Bl 58
+  name: ! ' Het veranderend Yang'
+  chname: ! ' Feiyang'
+  locatie: ! ' 1 cun onder en naar buiten van Bl57. 7 cun recht boven BL60 op de achterrand
+    van de Tibia'
+  aard: ! ' Luo punt'
+  actie:
+  - ! ' Activeert de meridiaan en verminderd pijn'
+- !ruby/object:Acupunt
+  afk: Bl 60
+  name: ! ' Kunlun'
+  chname: ! ' Kunlun'
+  locatie: ! ' In de depressie tussen de laterale melleolus en de achillespees'
+  aard: ! ' '
+  actie:
+  - ! ' Activeert de hele blaasmeridiaan en verminderd pijn. Ontspant de pezen en
+    versterkt de lumbale regio'
+- !ruby/object:Acupunt
+  afk: BL 62
+  name: ! ' Oorsprong van de opstijgende yang-baan'
+  chname: ! ' Shenmai'
+  locatie: ! ' On de depressie reschtsonder de laterale melleolus. 0.5cun lateraal
+    van de onderste rand.'
+  aard: ! ' openingspunt van Yang qiao mai'
+  actie:
+  - ! ' Ondersteunt het hoofd en de ogen. Opent en reguleert de yang qiao mai. Activeert
+    de meriidiaan en verminderd pijn.'
+- !ruby/object:Acupunt
+  afk: Bl 63
+  name: ! ' De metalen poort'
+  chname: ! ' Jinmen'
+  locatie: ! ' aan de laterale zijde van de voet. in de depressie posterior van de
+    tuberositas van het 5de metatarsale bot.'
+  aard: ! ' xi-cleft'
+  actie:
+  - ! ' Ontspant de pezen. Activeert de meridiaan en verminderd pijn'
+- !ruby/object:Acupunt
+  afk: BL 64
+  name: ! ' Piramidebot'
+  chname: ! ' Jinggu'
+  locatie: ! ' Voor en onder tuberositas van metatarsaal 5 op de scheiding van rode
+    en witte huid op de laterale zijde van de voet.'
+  aard: ! ' Yuan source'
+  actie:
+  - ! ' Ontspant de pezen. Activeert de meridiaan en verminderd pijn. Versterkt de
+    blaas'
+- !ruby/object:Acupunt
+  afk: BL 67
+  name: ! ' Uiterst yin'
+  chname: ! ' Zhiyin'
+  locatie: ! ' 0.1 cun onder de laterale nagelhoek van de kleine teen'
+  aard: ! ' '
+  actie:
+  - ! ' einde blaasmeridiaan'

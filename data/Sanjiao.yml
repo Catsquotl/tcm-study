@@ -1,0 +1,128 @@
+--- !ruby/object:Orgaan
+points: ./data/Sanjiao.csv
+functies:
+  De Driewarmer als één van de zes Fu organen: ! 'De functie van de Driewarmer is
+    vanuit deze optiek gelijk aan die van de andere
+
+    Yang - organen, namelijk het ontvangen, het transformeren en het uitscheiden van
+
+    voedsel en drank. In het bijzonder heeft de Driewarmer een “uitscheidende”
+
+    functie. Met andere woorden; het zorgt voor de vrije doorstroom van de diverse
+
+    soorten Qi en Jinye’s. Dat doet het t.a.v. de Wei Qi in de Bovenste Warmer, t.a.v.
+
+    de Ying Qi in de Middelste Warmer en t.a.v. de Jinye’s in de Onderste Warmer.'
+  De Driewarmer als weg voor de Yuan Qi: ! 'De Driewarmer pompt als het ware de Yuan
+    Qi, afkomstig uit de Nier, door het
+
+    lichaam om alle Zang Fu en alle overige weefsels te stimuleren hun functionele
+
+    activiteiten adequaat uit te voeren.'
+  De Driewarmer scheidt het lichaam in drie regionen: ! 'De Bovenste Warmer wordt
+    gelokaliseerd boven het diafragma en is daarmee
+
+    nauw verbonden met de functies van het Hart en de Long . In de T.C.M. -
+
+    literatuur kent men de term: De Bovenste Warmer is als een mist. Hiermee
+
+    refereert men naar het fysiologische proces van het verspreiden van heldere
+
+    vloeistoffen (door het gehele lichaam) als een sprayer.
+
+    De Middelste Warmer wordt gelokaliseerd tussen het diafragma en de navel en is
+
+    daarmee nauw verbonden met de functies van Maag en Milt. De Middelste Warmer
+
+    is verantwoordelijk voor het transformeren en transporteren van Graan en Water.
+
+    Vandaar dat de Middelste Warmer in de klassieke literatuur wordt vergeleken met
+
+    een moeras.
+
+    De Onderste Warmer wordt gelokaliseerd onder de navel en is daarmee nauw
+
+    verbonden met de functies van de Darmen, Blaas en Nier. Het is zijn
+
+    verantwoordelijkheid om het zuivere van het onzuivere te scheiden. Tevens
+
+    controleert het de uitscheiding van het onzuivere deel. Vandaar dat de Onderste
+
+    Warmer in de literatuur wordt vergeleken met een riool.'
+punten:
+- !ruby/object:Acupunt
+  afk: Dw 1
+  name: ! ' Grote straat aan de poort van de wind'
+  chname: ! ' Guangshong'
+  locatie: ! ' 0.1 Cun onder de ulnaire nagelhoek van de ringvinger'
+  aard: ! ' '
+  actie:
+  - ! ' '
+- !ruby/object:Acupunt
+  afk: Dw 4
+  name: ! ' Yang vijver'
+  chname: ! ' Yangchi'
+  locatie: ! ' In een holte tussen ulna en metacarpus, lateraal van de pees van de
+    extensor digitorum'
+  aard: ! ' Yuan source'
+  actie:
+  - ! ' Ontspant pezen en verminderd pijn. - Ondersteunt nier Yang .'
+- !ruby/object:Acupunt
+  afk: Dw 5
+  name: ! ' Buitenpas'
+  chname: ! ' Waiguan'
+  locatie: ! ' 2 Cun boven Dw4 tussen de radius en de ulna, in de depressie'
+  aard: ! ' Luo-connectie .- confluentpunt Yang wei mai'
+  actie:
+  - ! ' Verdrijft wind-hitte en bevrijdt het externe.- Tempert temporale hoofdpijn.'
+- !ruby/object:Acupunt
+  afk: Dw 7
+  name: ! ' Verzamelde generaties'
+  chname: ! ' Huxizong'
+  locatie: ! ' 3 cun boven Dw4. 1 vingerbreeste naast Dw6 aan de radiale zijde van
+    de ulna.'
+  aard: ! ' xi-cleft'
+  actie:
+  - ! ' Klaart de meridiaan en ondersteunt de oren.'
+- !ruby/object:Acupunt
+  afk: Dw 10
+  name: ! ' Bron van de hemel'
+  chname: ! ' Tianjing'
+  locatie: ! ' Met gebogen elleboog in een depressie 1 cun boven het olecranon'
+  aard: ! ' '
+  actie:
+  - ! ' Transformeert vocht, damp en slijm'
+- !ruby/object:Acupunt
+  afk: Dw 14
+  name: ! ' keldergat van de schouder'
+  chname: ! ' Jianliao'
+  locatie: ! ' Achter en onder het acromion in de achterste depressoe die verschijnt
+    bij opgeheven arm'
+  aard: ! ' '
+  actie:
+  - ! ' verminderd pijn en ondersteunt het sschoudergewricht'
+- !ruby/object:Acupunt
+  afk: Dw 17
+  name: ! ' windscherm'
+  chname: ! ' Yifeng'
+  locatie: ! ' Achter de oorlel in een depressie tussen kaak en processus mastoideus'
+  aard: ! ' '
+  actie:
+  - ! ' Ondersteunt de oren'
+- !ruby/object:Acupunt
+  afk: Dw 21
+  name: ! ' poort van het oor'
+  chname: ! ' Ermen'
+  locatie: ! ' In de depressie t.h.v. de bovenrand van de trachus.(bovensta gat naast
+    het oor op gezicht)'
+  aard: ! ' '
+  actie:
+  - ! ' Ondersteunt de oren'
+- !ruby/object:Acupunt
+  afk: Dw 23
+  name: ! ' Sizhukong'
+  chname: ! ' met violen en fluiten'
+  locatie: ! ' in de depressie aan het laterale uiteinde van de wenkbrouw'
+  aard: ! ' '
+  actie:
+  - ! ' '

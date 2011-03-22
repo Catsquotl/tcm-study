@@ -1,0 +1,210 @@
+--- !ruby/object:Orgaan
+points: ./data/Maag.csv
+functies:
+  De Maag controleert het rijpen en rotten van voedsel en drank: ! 'De Maag is belast
+    met het ontvangen van onverteerd voedsel, dat het
+
+    transformeert via een gistingsproces dat in de T.C.M. benoemd wordt met de term
+
+    rijpen en rotten. Hierdoor wordt het voedsel zo geprepareerd, dat de Milt de
+
+    voedingsessentie eruit kan halen. Daarmee is de Maag dus verantwoordelijk voor
+
+    de initiële fase van de spijsvertering. Dientengevolge stuurt de Maag het zuivere
+
+    deel van voedsel naar de Milt en wordt het onzuivere deel afgevoerd via de Dunne
+
+    Darm.'
+  De Maag controleert het transport van voedingsessentie: ! 'De Maag is, zoals we
+    hebben kunnen zien, verantwoordelijk voor het doorsturen
+
+    van voedingsessentie naar de Milt. Maar omdat Maag en Milt gezien worden als
+
+    een onafscheidelijke eenheid, ondersteunt de Maag de Milt bij het transporteren
+
+    van voedingsessentie door het gehele lichaam.'
+  De Maag controleert de neerwaartse beweging van Qi: ! 'Onder normale omstandigheden
+    voert de Maag, na het transformatieproces, het
+
+    onzuivere deel van voedsel neerwaarts af richting de Dunne Darm. Het is deze
+
+    beweging waarnaar wordt gerefereerd bij de beschrijving van deze functie.'
+  De Maag is de bron van vloeistoffen: ! 'De Maag draagt er zorg voor dat het deel
+    van drank dat niet wordt omgezet tot
+
+    voedings - / drankessentie, wordt gecondenseerd en wordt getransformeerd tot
+
+    Jinye’s.'
+punten:
+- !ruby/object:Acupunt
+  afk: Mg 1
+  name: Punt dat tranen opneemt
+  chname: Chengqi
+  locatie: Op de onderste oogrand, loodrecht onder de pupil
+  aard: !!null 
+  actie: !!null 
+- !ruby/object:Acupunt
+  afk: Mg 3
+  name: ''
+  chname: ''
+  locatie: Onder mg 1 ter hoogte van Dida 20. Onder het Jukbeen
+  aard: ''
+  actie:
+  - Elimineert interne en externe wind, laat zwelling verdwijnen en verminderd pijn.
+- !ruby/object:Acupunt
+  afk: Mg 6
+  name: Kaak
+  chname: Jiache
+  locatie: 1 cun schuin boven de kaakhoek,op de verdikking van de M.masseter als de
+    kaken op elkaar worden geklemd
+  aard: ''
+  actie:
+  - Elimineert wind en ondersteunt de kaak en tanden.
+- !ruby/object:Acupunt
+  afk: Mg 8
+  name: Punt v/d bewaarbaan v/h hoofd.
+  chname: Touwei
+  locatie: 0,5 cun achter de (originele) haarlijn in het kuiltje 4,5 cun lateraal
+    van Du Mai 24
+  aard: ''
+  actie:
+  - -Elimineert wind en verminderd pijn.-Ondersteunt de ogen.-Verwijderd damp uit
+    het hoofd
+- !ruby/object:Acupunt
+  afk: Mg 9
+  name: Ontvangst van de mensen
+  chname: Renying
+  locatie: Naast de adamsappel op de rand van de M.sternocleidomasticus (waar de arteriecarotis
+    externa voelbaar is)
+  aard: Window of heaven.
+  actie:
+  - -Reguleert qi en xue.Zee van qi
+  - -Ondersteund keel en nek.Verminderd zwelling en pijn
+- !ruby/object:Acupunt
+  afk: ! 'Mg 12 '
+  name: Kuiltje boven het sleutelbeen
+  chname: Quepen
+  locatie: 4 cun van de renmai(op de tepellijn), in het midden van de groeve op het
+    sleutelbeen
+  aard: ''
+  actie:
+  - -laat longqi dalen en klaart hitte van de borst.Activeert de meridiaan en verminderd
+    pijn.laat rebellerend maagqi dalen
+- !ruby/object:Acupunt
+  afk: Mg 18
+  name: Wortel van de Borst
+  chname: Rugen
+  locatie: 4 cun van renmai in de 5e intercostale ruimte onder de tepel
+  aard: ''
+  actie:
+  - -Ondersteunt de borst en verminderd zwelling.Heft stagnatie in de borst op en
+    bevorderd lactatie
+- !ruby/object:Acupunt
+  afk: Mg 21
+  name: Poort in het tussenschot
+  chname: Liangmen
+  locatie: 2 cun van renmai, 4 cun boven de navel (op de RM12 lijn)
+  aard: ''
+  actie:
+  - Harmoniseert de MW en transformeert E61
+- !ruby/object:Acupunt
+  afk: Mg 25
+  name: Scharnier v/d hemel
+  chname: Tianshu
+  locatie: 2 cun van RM naast de navel
+  aard: Front mu van de dikke darm
+  actie:
+  - -reguleert de darmen.reguleert milt en maag.laat damp en damp-hitte verdwijnen.reguleert
+    qi en xue en elimineert stagnatie
+- !ruby/object:Acupunt
+  afk: Mg 30
+  name: Brede straat v/h qi
+  chname: Qichong
+  locatie: 2 cun naast RM op de bovenrand v/h schaambeen
+  aard: ''
+  actie:
+  - -Reguleert qi in OW.-reguleert de chongmai
+- !ruby/object:Acupunt
+  afk: Mg 34
+  name: Heuvel met tussenschot
+  chname: Lianqiu
+  locatie: 2 cun boven het laterale deel v/d  patella gemeten vanaf de bovenrand
+  aard: Xi-cleft punt
+  actie:
+  - Activeert de meridiaan en verminderd pijn
+- !ruby/object:Acupunt
+  afk: Mg 35
+  name: Kalfsneus
+  chname: Dubi
+  locatie: In depressie die ontstaat lateraal onder de patella bij het buigen v/d
+    knie
+  aard: ''
+  actie:
+  - Verdrijft wind-damp en reduceert zwelling
+- !ruby/object:Acupunt
+  afk: Mg 36
+  name: Voet driedorpenpunt
+  chname: Zusanli
+  locatie: 3 cun onder MG 35, 1 vingerbreedte naast de tibia
+  aard: ''
+  actie:
+  - -Harmoniseert maag en milt.-versterkt milt en verdrijft damp.-versterkt qi en
+    voedt Yuan qi.-tonifieert qi en voedt xue en yin.-klaart vuur en kalmeert de shen
+- !ruby/object:Acupunt
+  afk: Mg 37
+  name: Bovenste engte v/h wijde veldt
+  chname: ''
+  locatie: 3 cun onder MG 36 1 vingerbreedte lateraal van bovenrand
+  aard: ''
+  actie:
+  - Reguleert darmen en transformeert stagnatie
+- !ruby/object:Acupunt
+  afk: Mg 38
+  name: Opening v/d verslapping
+  chname: Tiaokuo
+  locatie: 2 cun onder MG 37. Op het midden van het onderbeen
+  aard: ''
+  actie:
+  - Ondersteunt de schouder
+- !ruby/object:Acupunt
+  afk: Mg 39
+  name: Onderste engte v/h wijde veld
+  chname: Xiajuxu
+  locatie: 1 cun onde MG 38
+  aard: ''
+  actie:
+  - Beweegt duda qi en transformeert stagnatie
+- !ruby/object:Acupunt
+  afk: Mg 40
+  name: Overvloedige volte
+  chname: Fenglong
+  locatie: 1 vingerbreedte lateraal naast mg 38 op de rand van de spier
+  aard: Luo-punt
+  actie:
+  - -Transformeert slijm en damp.klaart slijm v/h hart en kalmeert de shen
+- !ruby/object:Acupunt
+  afk: Mg 41
+  name: Bevrijde waterloop
+  chname: Jiexi
+  locatie: Op de rand v/d onderbeen/voet. Naast de pees v/d grote teen
+  aard: Jing rivier
+  actie:
+  - Klaart hitte in maagmeridiaan en maag fu
+- !ruby/object:Acupunt
+  afk: Mg 42
+  name: Yang v/d grote straat
+  chname: chongyang
+  locatie: 1,5 cun onder mg 41. Op de depresie tussen het begin van middevoetsbeentjes
+    2 en 3
+  aard: ''
+  actie:
+  - ! '-'
+  - Yuan-bron punt
+  - -Klaart hitte van de maagmeridiaan.harmoniseert de maag
+- !ruby/object:Acupunt
+  afk: Mg 45
+  name: Onderdrukte vrolijkheid
+  chname: Lidui
+  locatie: Laterale nagelhoek van de 2e teen
+  aard: !!null 
+  actie: !!null 
