@@ -31,12 +31,14 @@ Shoes.app title:"Shu Ha Ri",width: 1280, height: 720 do
             end
             }
           end
+          }
         @fwin3.clear {
+         #window do
          a.functies.each do |k,v|
          para strong k
          para v
          end
-        }
+         #end
         }
       }
     }
