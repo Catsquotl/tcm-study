@@ -1,16 +1,12 @@
 class Orgaan
 	require_relative './acupunt'
   require_relative './orgaaneditor'
+  require_relative './orgaangui'
   require 'psych'
   include OrgaanEditor
+  include OrgaanGui
   
  	attr_reader :punten ,:functies, :points
-  
- 	def initialize point
- 	  @points = point
-    @functies = {}
-    self.set_punten
- 	end
 	
   def set_punten
     @punten=[]

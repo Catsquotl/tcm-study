@@ -40,6 +40,18 @@ module OrgaanEditor
           end 
         end
       end 
+      
+  
+  stack do
+    funckey = edit_box
+    funcval = edit_box
+    button "go" do
+      a.write_func funckey.text,funcval.text
+    end
+    button "save" do
+      a.save choice.text
+     end
+  end
 =end
 end
 end  
