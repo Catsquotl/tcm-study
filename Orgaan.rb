@@ -7,7 +7,11 @@ class Orgaan
   include OrgaanGui
   
  	attr_reader :punten ,:functies, :points
-	
+	def initialize arg
+    @points = arg
+    @functies ={}
+  end
+
   def set_punten
     @punten=[]
     File.foreach(@points) {|csv_line|

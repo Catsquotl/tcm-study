@@ -1,0 +1,176 @@
+--- !ruby/object:Orgaan
+points: ./data/lever.csv
+functies:
+  De Lever slaat Xue op: ! 'De Lever slaat Bloed op en daarmee reguleert het dus de
+    kwantitatieve
+
+    hoeveelheid Bloed. De hoeveelheid Bloed in circulatie is afhankelijk van de
+
+    fysiologische behoefte. Praktisch komt het er op neer dat bij activiteit de Lever
+
+    Bloed stuurt naar de periferie (m.n. hoofd en ledematen), en bij rust het Bloed
+
+    verzamelt en opslaat. Het spreekt voor zich dat De Lever door deze functie een
+
+    nauwe relatie heeft met alle andere Zang Fu en de door hun gevoede weefsels.'
+  De Lever onderhoudt de vrije stroom van Qi: ! 'De Lever onderhoudt de vrije stroom
+    van Qi door het hele lichaam, in alle organen
+
+    en in elke richting. Dit heeft invloed op vijf gebieden.
+
+    1. In relatie tot de emotionele status
+
+    Een emotie is een beweging van Qi. Indien de vrije stroom van Qi wordt gehinderd,
+
+    zal dit zich direct uiten in de vorm van emotionele labiliteit. Omgekeerd zal
+    elke
+
+    emotionele verstoring de vrije stroom van Qi blokkeren.
+
+    2. In relatie tot de spijsvertering
+
+    Een normale vrije stroom van Qi zorgt voor een goed functionerend
+
+    spijsverteringsproces, in het bijzonder op Maag en Miltniveau. Omgekeerd zullen
+
+    spijsverteringsproblemen de aanmaak van Qi hinderen, wat de Lever hindert de
+
+    vrije stroom te handhaven.
+
+    3. In relatie tot de secretie van gal
+
+    De vrije stroom van Qi zorgt ook voor een harmonieuze secretie van gal. Een
+
+    verstoring kan aanleiding geven tot het niet kunnen maken van keuzes en / of het
+
+    nemen van beslissingen.
+
+    4. In relatie tot de vrije stroom van Jinye’s
+
+    Er bestaat een nauwe relatie tussen de vrije stroom van Qi en de vrije stroom
+    van
+
+    lichaamsvloeistoffen. Stagnatie van Qi doet de vrije stroom van de Jinye’s
+
+    (Lichaamsvloeistoffen) stagneren.
+
+    5. In relatie tot de vrije stroom van Xue
+
+    Van Qi wordt gezegd dat het Bloed beweegt en van Bloed wordt gezegd dat het,
+
+    de materiële substantie vormt voor Qi. Dus als de Qi stagneert, zal ook het Bloed
+
+    in meridianen en de bloedvaten stagneren.'
+  De Lever herbergt de Hun: ! 'De Hun kan men vertalen als de etherisch ziel. Het
+    zorgt voor een gezonde
+
+    assertiviteit en de capaciteit tot het plannen van ons leven. Verstoringen van
+    de
+
+    Lever maken de Hun rusteloos. Deze rusteloosheid kan zich vertalen in woede en
+
+    agressie of in timiditeit en afwezigheid.'
+  De Lever voedt de pezen: ! 'De pezen in T.C.M zijn niet alleen de pezen, maar ook
+    de ligamenten en de spier -
+
+    fascia. Zij verzorgen de capaciteit tot bewegen en fysieke activiteit, doordat
+    de
+
+    “pezen” de spieren verbinden aan het skelet. Deze capaciteit is afhankelijk van
+    de
+
+    voeding en bevochtiging van Lever bloed.'
+  De Lever manifesteert zich in de nagels: ! 'In de T.C.M. beschouwt men de nagels
+    als de uiteinden van de pezen. Aan de
+
+    nagels kan men dus zien hoe het met de status van het Lever Bloed staat, omdat
+
+    deze lichaamsvloeistof de pezen voedt. Is er voldoende Lever Bloed, zowel
+
+    kwantitatief als kwalitatief, dan zijn de nagels sterk en glanzend.'
+  De Lever opent in de ogen: ! 'Het oog is het zintuig dat wordt gerelateerd aan de
+    Lever. De Lever - meridiaan is
+
+    via zijn interne verloop verbonden met de ogen. Het is het Lever Bloed dat de
+
+    ogen bevochtigt en het vermogen geeft om te kunnen zien.'
+punten:
+- !ruby/object:Acupunt
+  afk: Le 1
+  name: ! ' de grote schaal'
+  chname: ! ' Dadun'
+  locatie: ! ' 0.1 cun achter de laterale nagelhoek van de grote teen'
+  aard: ! ' '
+  actie:
+  - ! ' '
+- !ruby/object:Acupunt
+  afk: Le 3
+  name: ! ' de machtige grote straat'
+  chname: ! ' Taichong'
+  locatie: ! ' In de depressie tussen de 1e en 2e metatarsaal(in een holte vlak voor
+    de punt waar 1e en 2e middenvoetsbeentjes bij elkaar komen, tenen naar je toe
+    trekken.)'
+  aard: ! ' Yuan source'
+  actie:
+  - ! ' Spreidt lever qi.- Tempert lever yang en dooft wind.'
+- !ruby/object:Acupunt
+  afk: Le 5
+  name: ! ' Kanaal van de houtworm'
+  chname: ! ' Ligou'
+  locatie: ! ' 5 cun boven de top van de binnenenkel aan de achterrand van de tibia,
+    2 cun boven milt 6.'
+  aard: ! ' Luo punt'
+  actie:
+  - ! ' Spreidt de lever.- Reguleert qi.- Ondersteunt de geslachtsdelen.- Klaart damp
+    en hitte in de OW.- Reguleert de menstruatie.'
+- !ruby/object:Acupunt
+  afk: Le 6
+  name: ! ' middelste stad'
+  chname: ! ' Zhongdu'
+  locatie: ! ' 7 cun boven de top van de binnenenkel aan de achterrand van de tibia.
+    2 cun boven Le 5'
+  aard: ! ' Xi-cleft'
+  actie:
+  - ! ' Spreidt lever qi en stopt pijn'
+- !ruby/object:Acupunt
+  afk: Le 8
+  name: ! ' bron aan de bocht'
+  chname: ! ' Quaquan'
+  locatie: ! ' Aan het einde van de mediale knieplooi voor de pezen'
+  aard: ! ' '
+  actie:
+  - ! ' Versterkt xue.- ondersteunt de uterus.- voedt xue en yin.'
+- !ruby/object:Acupunt
+  afk: Le 11
+  name: ! ' Yin pasengte'
+  chname: ! ' Yinlian'
+  locatie: ! ' 2 cun onder Mg 30 lateraal van de M.Abductor longus. 1 xun onder de
+    laterale zijde van de femorale arterie in de inguinale plooi. Lokaliseren in rugligging'
+  aard: ! ' '
+  actie:
+  - ! ' Ondersteunt de uterus.- Bevorderd circulatie van de lever qi'
+- !ruby/object:Acupunt
+  afk: Le 12
+  name: ! ' snelle pols'
+  chname: ! ' Jimai'
+  locatie: ! ' 2,5 cun lateraal van de Ren mai. 1 cun onder de bovenrand van het Os
+    pubis, aan de onderrand van de liesplooi '
+  aard: ! ' '
+  actie:
+  - ! ' elimineert kou van de levermeridiaan.- Ondersteunt de OW.'
+- !ruby/object:Acupunt
+  afk: Le 13
+  name: ! ' Versierde poort'
+  chname: ! ' Zhangmen'
+  locatie: ! ' direct voor en onder het uiteinde van de 11de rib'
+  aard: ! ' Front mu Milt.- Hui-meeting van de zang'
+  actie:
+  - ! ' Harmoniseert de lever en milt.- Versterkt de milt'
+- !ruby/object:Acupunt
+  afk: Le 14
+  name: ! ' Verzamelpunt van de lever'
+  chname: ! ' qimen'
+  locatie: ! ' op de tepellijn. 4 cun naast de renmai. in de 6de intercostale ruimte.'
+  aard: ! ' Front mu van de lever'
+  actie:
+  - ! ' Spreidt de lever.- reguleert qi.-Harmoniseert de lever en de maag.'

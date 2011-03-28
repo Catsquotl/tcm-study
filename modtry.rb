@@ -1,20 +1,14 @@
 require 'green_shoes'
-require './orgaan'
-require 'Yaml'
+require_relative './orgaan'
+
 Shoes.app do
 
-  warm = Orgaan.new './data/Driewarmer.csv'
-  warm.set_punten
-
-  para warm.to_s
-    button "go" do
-      window do 
-      warm.punten.each do |e|
-      para e.to_s
-      end
-    end
-  end
-  warm.write self
+org = Orgaan.new('./data/Galblaas.csv')
+org.set_punten
+key = edit_box
+val = edit_box
+button 'save' do
+org.write_func key.text,val.text
+org.save 'Galblaas'
 end
-  
-  
+end
