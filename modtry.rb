@@ -1,4 +1,4 @@
-require 'green_shoes'
+require 'shoes'
 require_relative './orgaan'
 
 Shoes.app do

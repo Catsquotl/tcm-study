@@ -1,5 +1,5 @@
 class AcupuntWriter
-  require "green_shoes"
+  require "shoes"
   attr_reader  :afk, :name,:chname,  :locatie, :aard, :actie
     
   Shoes.app  do
